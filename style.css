@@ -1,0 +1,15 @@
+.parent{
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+}
+
+.aple{
+    display: flex;
+ justify-content: center;
+
+}
+img,.aple{
+    width: 30px;
+    height: 30px;
+}
